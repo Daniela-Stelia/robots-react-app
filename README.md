@@ -1,2 +1,2 @@
 # robots-react-app
-a small react app after udemy tutorial 
+a veery small react app
